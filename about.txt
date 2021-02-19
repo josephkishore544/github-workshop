@@ -1,0 +1,1 @@
+the about.c file prints 0 to n-1 numbers
